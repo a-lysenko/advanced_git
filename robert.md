@@ -1,4 +1,4 @@
-Lorem ipsum
+giLorem ipsum
 dolor
 Lorem ipsum
 Other happy string
@@ -10,4 +10,4 @@ Robert changed in master branch
 Robert changed in hello branch
 
 before rebase:
-Robert changed in master branch
+Robert changed in master branch Robert changed in master branch
