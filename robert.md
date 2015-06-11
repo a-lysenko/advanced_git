@@ -1,4 +1,4 @@
-giLorem ipsum
+Lorem ipsum | chages from master branch
 dolor
 Lorem ipsum
 Other happy string
